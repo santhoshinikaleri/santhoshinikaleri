@@ -1,172 +1,112 @@
-<div align="center">
+# Hi, I'm Kaleri Santhoshini
 
-# 👋 Hi, I'm Santhoshini Kaleri
+Aspiring Software Engineer | Full-Stack Web Developer | React.js & Node.js Developer  
+B.Tech – Information Technology (Graduating 2027)  
+TKR College of Engineering and Technology, Hyderabad, Telangana, India
 
-### Full Stack Developer | Software Engineering Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js;MySQL+%7C+MongoDB+%7C+REST+APIs;Building+Real+World+Applications" />
-
-<p>
-<a href="https://github.com/santhoshinikaleri">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/santhoshini-kaleri-7a2326379">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:kalerisanthoshini20@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-</div>
+I build responsive, scalable, and user-focused web applications using modern JavaScript-based technologies.  
+My work focuses on full-stack development, RESTful APIs, authentication systems, database integration, and secure document workflows.
 
 ---
 
-## 👩‍💻 About Me
+## Professional Summary
 
-I'm an Information Technology student passionate about Full Stack Development and Software Engineering.
-
-- 🎓 B.Tech Information Technology – TKR College of Engineering and Technology.
-- 💻 Full Stack Web Development Intern at Future Interns.
-- 🌱 Interested in Full Stack Development, Backend Engineering and Database Management.
-- 🔐 Experienced in authentication systems, REST APIs, CRUD applications and secure document workflows.
-- 🚀 Enjoy building responsive and practical web applications.
-- 🎯 Aspiring Software Engineer.
+- Full-stack developer with practical experience in React.js, Node.js, Express.js, MongoDB, and MySQL.
+- Developed real-world applications including digital document verification and customer relationship management systems.
+- Experienced in frontend development, backend API integration, authentication, and database-driven application development.
+- Familiar with JWT authentication, OTP-based verification, Role-Based Access Control (RBAC), and CRUD operations.
+- Comfortable working with Git, GitHub, Postman, and modern web development workflows.
 
 ---
 
-## 🛠️ Technical Skills
+## Core Technology Stack
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
-</p>
+**Frontend:** HTML5, CSS3, JavaScript, React.js  
+**Backend:** Node.js, Express.js, RESTful APIs  
+**Databases:** MongoDB, MySQL, SQL  
+**Programming:** JavaScript, Python  
+**Tools & Platforms:** Git, GitHub, Postman, VS Code, Vercel, Render
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 01. Digital Documentation & Identity Verification System
+### Digital Documentation & Identity Verification System
 
-**Tech Stack:** React.js | Node.js | Express.js | MySQL | REST APIs
+A secure full-stack document management platform designed to digitize document workflows and identity verification. Implemented OTP-based authentication, role-based access control, encrypted document storage, electronic signature support, and document tracking.
 
-- Developed a secure full-stack application for digital document workflows and identity verification.
-- Implemented OTP-based authentication.
-- Integrated Role-Based Access Control (RBAC).
-- Worked on encrypted document storage and electronic signature support.
-- Developed REST APIs and document tracking functionality.
+**Tech:** React.js, Node.js, Express.js, MySQL, REST APIs
 
-### 02. Mini CRM – Customer Relationship Management System
+### Mini CRM – Customer Relationship Management System
 
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB | JWT
+A full-stack CRM application designed for customer and lead management. Features include JWT authentication, CRUD operations, lead search and filtering, follow-up tracking, and dashboard analytics.
 
-- Built a full-stack CRM platform for customer and lead management.
-- Implemented JWT-based authentication.
-- Developed CRUD operations for lead management.
-- Added search, filtering and follow-up tracking.
-- Created dashboard analytics.
-- Designed a responsive React.js interface.
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT
 
-### 03. Personal Portfolio Website
+### Personal Portfolio Website
 
-**Tech Stack:** Verify the actual technologies used in the repository.
+A responsive portfolio website developed to showcase technical skills, projects, and professional experience. Focused on modern interface design, responsive layouts, and user experience.
 
-- Developed a responsive personal portfolio website.
-- Showcased projects and technical skills.
-- Focused on modern UI design and user experience.
+**Tech:** HTML5, CSS3, JavaScript
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Full Stack Web Development Intern – Future Interns
 
 **February 2026**
 
-- Developed a responsive portfolio website.
-- Built a Mini CRM application with CRUD operations and lead management.
-- Implemented authentication and database integration.
-- Designed and integrated RESTful APIs.
-- Used Git and GitHub for version control.
+- Developed a responsive portfolio website showcasing projects and technical skills.
+- Built a Mini CRM application with CRUD operations, lead management, authentication, and database integration.
+- Designed and integrated RESTful APIs for frontend-backend communication.
+- Used Git and GitHub for version control and structured development practices.
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-- ServiceNow Certified Implementation Specialist – Data Foundations (2026).
-- Salesforce Certified Agentforce Specialist (2025).
-- Introduction to Generative AI – IBM SkillsBuild (2025).
-- Full Stack Web Development Internship – Future Interns (2026).
+- ServiceNow Certified Implementation Specialist – Data Foundations (July 2026)
+- Full Stack Web Development Internship – Future Interns (February 2026)
+- Salesforce Certified Agentforce Specialist (December 2025)
+- Introduction to Generative AI (MDL-388) – IBM SkillsBuild (August 2025)
 
 ---
 
-## 🎓 Education
+## Education
 
 **TKR College of Engineering and Technology**
 
-Bachelor of Technology – Information Technology
-
-2023 – 2027
-
+B.Tech – Information Technology  
+2023 – 2027  
 **CGPA: 8.83**
 
 ---
 
-## 📊 GitHub Statistics
+## Current Learning & Interests
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=santhoshinikaleri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshinikaleri&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=santhoshinikaleri&theme=tokyonight&hide_border=true" />
-
-</div>
+- Building scalable full-stack web applications.
+- Improving backend development and REST API design.
+- Secure authentication and authorization systems.
+- Database design and management using MySQL and MongoDB.
+- Modern frontend development using React.js.
 
 ---
 
-## 🌐 Connect With Me
+## Career Interests
 
-<p>
-<a href="https://github.com/santhoshinikaleri">GitHub</a> •
-<a href="https://www.linkedin.com/in/santhoshini-kaleri-7a2326379">LinkedIn</a> •
-<a href="mailto:kalerisanthoshini20@gmail.com">Email</a>
-</p>
+Interested in opportunities related to:
+
+- Software Engineering
+- Full-Stack Web Development
+- React.js Developer
+- Node.js Backend Development
+- Application Development
 
 ---
 
-<div align="center">
+## Connect With Me
 
-### 💡 Learn | Build | Innovate | Grow
-
-**Thanks for visiting my GitHub profile!**
-
-</div>
+- **LinkedIn:** [linkedin.com/in/santhoshini-kaleri-7a2326379](https://www.linkedin.com/in/santhoshini-kaleri-7a2326379)
+- **GitHub:** [github.com/santhoshinikaleri](https://github.com/santhoshinikaleri)
+- **Email:** [kalerisanthoshini20@gmail.com](mailto:kalerisanthoshini20@gmail.com)
